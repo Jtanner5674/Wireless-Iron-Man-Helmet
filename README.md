@@ -6,6 +6,6 @@ follow this guide for setting up arduino IDE: https://www.instructables.com/Wemo
 
 The servos will need an external power source. I connected both of mine to a single usb cable to power them using a power bank.
 
-Feel free to upgrade my code, it uses a sinric pro Switch to work. 
+it uses a sinric pro Switch to work. 
 
 If you turn it on or off it wont matter because either way it will just cycle open or close.
